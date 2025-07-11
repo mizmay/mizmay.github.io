@@ -1,0 +1,6 @@
+name = "stephanie-may-personal"
+main = "src/index.js"
+compatibility_date = "2025-07-01"
+
+[site]
+bucket = "./dist"
